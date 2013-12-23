@@ -18,7 +18,7 @@ You can add, edit and delete testimonials easily via the editor.
 
 You can select the client gender type while adding a testimonial in editor. It will be used in display of the testimonial on your testimonial page.
 
-Here is the <a href="http://fifo.com.bd/plugins/fifo-testimonials/">demo</a>.
+Here is the demo http://fifo.com.bd/plugins/fifo-testimonials/
 
 = Main Features =
 
